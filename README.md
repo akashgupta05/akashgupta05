@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [benchmarking design patterns](https://github.com/akashgupta05/ruby-design-patterns-benchmark)
+- 💬 Ask me about Golang & Ruby
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/akashgupta05/)
+- ⚡ Fun fact: Follow your heart and let it lead, For passion is the seed, That grows into something great, A life worth living, not just fate.
